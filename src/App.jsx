@@ -1,6 +1,6 @@
 import React, { Suspense, lazy, useState } from "react";
 import { createRoot } from "react-dom/client";
-import "./app.css";
+import "./App.css";
 import Grainient from "./components/Grainient"; 
 import ProfileCard from "./components/ProfileCard";
 import profile from "./assets/avatar.png";
